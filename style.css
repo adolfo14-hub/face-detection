@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+#canvas{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+}
+
+#video{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 0;
+
+    border: white, 3px, solid;
+    border-radius: 10px;
+}
+
